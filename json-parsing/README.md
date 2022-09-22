@@ -8,7 +8,7 @@ JSON Object, JSON Array, JSON nested 형식을 테스트합니다.
 * Jackson (https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-databind)
 * JSON.simple (https://mvnrepository.com/artifact/com.googlecode.json-simple/json-simple)
 
-### 테스트 방법:
-* Main 파일 실행
+### 예제 테스트 방법:
+* /src/main/java/com/dannyjae/jsonparsing/Main.java 실행
 
 
